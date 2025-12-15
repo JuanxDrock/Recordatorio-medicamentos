@@ -34,4 +34,10 @@ Ejemplo:
 ## 🚀 Instalación
 1. Clonar el repositorio:  
    ```bash
-   git clone <URL-del-repositorio>
+   git clone <https://github.com/JuanxDrock/Recordatorio-medicamentos.git>
+
+   ## 📝 Changelog
+- **v0.1 (Módulo 5):** Interfaz inicial, registro de usuarios, validación de formularios.  
+- **v0.2 (Módulo 6):** Notificaciones push implementadas, mejoras en diseño.  
+- **v0.3 (Módulo 7):** Historial de tomas, exportación preliminar de reportes.  
+- **v1.0 (Entrega final):** Versión estable con todas las funcionalidades básicas.  
